@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color: blueviolet;
+    text-decoration: underline;
+}
+.textbox{
+    background-color: blueviolet;
+    padding: inherit;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+h2{
+    text-align: center;
+    color: blueviolet;
+}
